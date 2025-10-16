@@ -1,0 +1,11 @@
+Future Scopes --->
+1. Lifeline
+2. Are you sure? asking randomly
+3. Timer..
+4. waiting for confirmation after answer --> sleep function ✅
+
+=================================
+py 3.8
+
+py 3.11
+
